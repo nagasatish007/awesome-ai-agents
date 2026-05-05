@@ -2243,6 +2243,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
+## TealTiger
+
+⭐ stars (Updated: 2025-05-04)
+
+🛡️ Safety Guardrails (Safeguarding)
+
+TealTiger is an open-source deterministic governance engine for AI agents. 7 parallel modules (secrets, registry, reliability, memory, audit, dashboard, evidence), 500+ secret detection patterns, tool allowlisting, Docker sidecar, and SARIF evidence export. No LLM in the decision path — same input + same policy = same decision, every time. TypeScript + Python SDKs.
+
+[github](https://github.com/agentguard-ai/tealtiger) | [website](https://tealtiger.ai) | [docs](https://docs.tealtiger.ai)
+
+
 ### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
